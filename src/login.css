@@ -1,0 +1,141 @@
+.login__container{
+    width: 100%;
+}
+.login__left{
+    width: 60%;
+    float: left;
+}
+.login__right{
+    width: 40%;
+    float: right;
+}
+/* left side */
+.text{
+    color: white;
+    font-family: Calibri;
+    margin-left: 210px;
+    margin-top: 68px;
+    font-size: 40px;
+}
+.login__img1{
+    height: 360px;
+    width: 500px;
+    margin-left: 130px;
+}
+/* right side */
+.login__form{
+    background-color: white;
+    color: #111a85;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+    width: max-content;
+    padding-top: 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    font-family: 'Work Sans';
+    margin-left: 20px;
+    margin-top: 35px;
+}
+.login__form__logo{
+    height: 75px;
+    width: 360px;
+    text-align: center;
+    margin:0px;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 20px;
+    font-family: 'Work Sans';
+}
+.login__form__text1{
+    margin: 0px;
+    margin-left: 8px;
+    font-style: normal;
+    text-align: center;
+    font-size: larger;
+    font-weight: 300;
+    font-family: 'Work Sans';
+}
+.login__form__text2{
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    font-family: 'Work Sans';
+}
+.login__form__text3{
+    color: #8d8d8d;
+    margin: 0px;
+    font-size: 12px;
+    font-family: 'Work Sans';
+    margin-left: 15px; 
+}
+.login__form__text4{
+    color: #8d8d8d;
+    margin: 0px;
+    font-size: 12px;
+    font-family: 'Work Sans';
+    margin-left: 15px; 
+    margin-top: 17px;
+}
+.login__form__textfield1{
+    width: 360px;
+    padding-bottom: 4px;
+    margin-left: 15px;
+    font-size: small;
+    font-family: 'Work Sans';
+}
+.login__form__passwd{
+    width: 360px;
+    padding-bottom: 4px;
+    margin-left: 15px;
+    font-size: small;
+    font-family: 'Work Sans';
+}
+.css-a88p61-MuiInputBase-root-MuiInput-root:before{
+    border-bottom: 1.5px solid#111a85 !important;
+}
+.css-a88p61-MuiInputBase-root-MuiInput-root:after{
+    border-bottom: 1.5px solid#111a85 !important;
+}
+.form__signin{
+    width: 360px;
+    margin: 10px !important;
+    margin-left: 15px !important;
+    font-family: 'Work Sans' !important;
+    font-weight: bolder !important;
+    font-size: 25px !important;
+    background-color: #111a85 !important;
+    border-radius: 10px !important;
+    margin-top: 17px !important;
+}
+.form__forgotpassword{
+    display: block;
+    margin-top: 0px;
+    text-align: center;
+    font-size: medium;
+    font-weight: lighter;
+    list-style: none;
+    text-decoration: none;
+    color: #111a85 !important;
+}
+.form__createaccount{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 40px;
+    font-size: medium;
+    font-weight: lighter;
+    list-style: none;
+    color: #eb5d1e !important;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+.form__createaccount__text{
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    color:#8d8d8d !important;
+
+}
+.copyrights{
+    margin-top: 8px;
+    text-align: center;
+}
